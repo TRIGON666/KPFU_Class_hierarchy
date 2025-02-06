@@ -1,7 +1,0 @@
-C:\Users\jakeg\source\repos\Part_for_task_10\Part_for_task_10\bin\Debug\Part_for_task_10.exe.config
-C:\Users\jakeg\source\repos\Part_for_task_10\Part_for_task_10\bin\Debug\Part_for_task_10.exe
-C:\Users\jakeg\source\repos\Part_for_task_10\Part_for_task_10\bin\Debug\Part_for_task_10.pdb
-C:\Users\jakeg\source\repos\Part_for_task_10\Part_for_task_10\obj\Debug\Part_for_task_10.csproj.AssemblyReference.cache
-C:\Users\jakeg\source\repos\Part_for_task_10\Part_for_task_10\obj\Debug\Part_for_task_10.csproj.CoreCompileInputs.cache
-C:\Users\jakeg\source\repos\Part_for_task_10\Part_for_task_10\obj\Debug\Part_for_task_10.exe
-C:\Users\jakeg\source\repos\Part_for_task_10\Part_for_task_10\obj\Debug\Part_for_task_10.pdb
