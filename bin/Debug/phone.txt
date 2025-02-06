@@ -1,3 +1,0 @@
-Person | Boboshin | Wall Street | +79999999999
-Organization | OOO RedHead | Kazan street | +79999999999 | +79999999999 | Smesharik
-Friend | Ugarniy_tip | Baumana street | +79999999999 | 2000-05-15

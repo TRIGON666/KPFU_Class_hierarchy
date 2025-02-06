@@ -1,8 +1,0 @@
-
-Applicant|Ivan|Boboshin|2005-06-08|ICMIT|-|-|-
-
-Student|Ivan|Boboshin|2005-06-08|ICMIT|2|-|-
-
-Teach|Olga|Shorina|2000-01-01|ICMIT|-|Assistant, B.Sc. and senior-developer C#|2
-
-
